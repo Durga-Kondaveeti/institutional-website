@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/institutional-website/static/css/main.e5461594.css",
+    "main.js": "/institutional-website/static/js/main.c2632376.js",
+    "static/js/787.9b06cee2.chunk.js": "/institutional-website/static/js/787.9b06cee2.chunk.js",
+    "static/media/background.png": "/institutional-website/static/media/background.08a944b83269de8210c1.png",
+    "static/media/about.png": "/institutional-website/static/media/about.cf5c33caacc79a40a53e.png",
+    "static/media/contact.png": "/institutional-website/static/media/contact.dbdc89b03aae22d9f6d5.png",
+    "static/media/logo.png": "/institutional-website/static/media/logo.6eab1a17a9494df35509.png",
+    "static/media/ig.png": "/institutional-website/static/media/ig.6de6f6e693bda29aa132.png",
+    "static/media/tw.png": "/institutional-website/static/media/tw.460bd649e392b75e597f.png",
+    "index.html": "/institutional-website/index.html",
+    "main.e5461594.css.map": "/institutional-website/static/css/main.e5461594.css.map",
+    "main.c2632376.js.map": "/institutional-website/static/js/main.c2632376.js.map",
+    "787.9b06cee2.chunk.js.map": "/institutional-website/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5461594.css",
+    "static/js/main.c2632376.js"
+  ]
+}
