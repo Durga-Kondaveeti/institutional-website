@@ -1,0 +1,33 @@
+.text-yellow
+{
+    color: yellow;
+}
+.text-yellowgreen
+{
+    color: yellowgreen;
+}
+.text-whitesmoke{
+    color: whitesmoke;
+}
+
+.text-center{
+    text-align: center;
+}
+.text-medium
+{
+    font-size: medium;
+}
+.text-large
+{
+    font-size: large;
+}
+.text-small
+{
+    font-size: small;
+}
+.display-if{
+    display: inline-flex;
+}
+.width-100{
+    width: 100%;
+}

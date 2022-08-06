@@ -1,0 +1,23 @@
+.listclass
+{
+        color: white;;
+        min-width: 300px;
+        padding: 20px;
+        margin-left: 100px;
+}
+dd
+{
+    color:yellow;
+   
+}   
+
+.course-details
+{
+    display: inline-flex;
+    text-align: center;
+}
+h1
+{
+    margin-top: -10px;
+    margin-left: 26%;
+}

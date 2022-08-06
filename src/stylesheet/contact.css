@@ -1,0 +1,23 @@
+
+input
+{
+    color: yellow;
+    display: inline;
+}
+.contactclass
+{
+   width: 100%;
+   height: 100%;
+}
+iframe
+{
+    width: 50%;
+    float: left;
+}
+form
+{
+    width: 50%;
+    float: right;
+    text-align: center;
+    
+}
